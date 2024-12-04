@@ -1,0 +1,56 @@
+Player: Johan
+Ending Balance: $9800.00
+Timestamp: 2024-11-26 18:57:51
+------------------------------
+Player: Ivan
+Ending Balance: $20000.00
+Timestamp: 2024-11-26 18:58:31
+------------------------------
+Player: Johan
+Ending Balance: $10011.00
+Timestamp: 2024-11-27 15:15:15
+------------------------------
+Player: Johan
+Ending Balance: $1010.00
+Timestamp: 2024-11-27 15:20:27
+------------------------------
+Player: Johan
+Ending Balance: $0.00
+Timestamp: 2024-11-27 15:28:19
+------------------------------
+Player: John
+Ending Balance: $9990.00
+Timestamp: 2024-12-04 01:29:21
+------------------------------
+Player: Charlie
+Ending Balance: $990.00
+Timestamp: 2024-12-04 01:46:47
+------------------------------
+Player: Alice
+Ending Balance: $1650.00
+Wins: 1
+Losses: 1
+Ties: 0
+Timestamp: 2024-12-04 01:57:35
+==============================
+Player: Alice
+Ending Balance: $1655.00
+Wins: 3
+Losses: 2
+Ties: 0
+Timestamp: 2024-12-04 02:14:52
+==============================
+Player: Alice
+Ending Balance: $2405.00
+Wins: 4
+Losses: 2
+Ties: 1
+Timestamp: 2024-12-04 02:16:00
+==============================
+Player: Bob
+Ending Balance: $1005.00
+Wins: 1
+Losses: 0
+Ties: 0
+Timestamp: 2024-12-04 14:45:20
+==============================
